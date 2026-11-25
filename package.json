@@ -1,0 +1,25 @@
+{
+  "name": "@speculanetwork/core",
+  "version": "0.1.0",
+  "description": "Deterministic bytecode fingerprinting, content-addressed evidence modeling, and entity graph primitives for Robinhood Chain (4663).",
+  "license": "MIT",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "engines": {
+    "node": ">=20.18.0"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "viem": "^2.38.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.4"
+  }
+}
