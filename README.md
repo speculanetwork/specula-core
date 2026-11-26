@@ -4,6 +4,11 @@
 
 `@speculanetwork/core` contains the deterministic forensic primitives and domain schemas used by **SPECULA** on **Robinhood Chain (`Chain ID: 4663`)**.
 
+- **Platform:** [https://specula.observer](https://specula.observer)
+- **X:** [@Specula_rbh](https://x.com/Specula_rbh)
+- **`$SPEC` Contract (Robinhood Chain `4663`):** `0x2e6caa4d8191bae986458bfc37ea19c85a55294a`
+- **Buy on Pons:** [https://ponsfamily.com/launchpad/0x2e6caa4d8191bae986458bfc37ea19c85a55294a](https://ponsfamily.com/launchpad/0x2e6caa4d8191bae986458bfc37ea19c85a55294a)
+
 ---
 
 ## Scope
